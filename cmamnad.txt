@@ -1,0 +1,69 @@
+ass1 ->lex file.l
+       gcc lex.yy.c input.c
+        ./a.out
+
+ass1 ->lex file.l
+       gcc lex.yy.c
+       ./a.out
+
+ass3->lex lex.l
+       yacc -d yacc_file.y
+      gcc lex.yy.c y.tab.c
+      ./a.out
+ass4
+    lex lex.l
+       yacc -d yacc_file.y
+      gcc lex.yy.c y.tab.c
+      ./a.out
+
+ass5
+  gcc filnename.c
+ ./a.out
+
+ass6
+
+    lex lex.l
+       yacc -d yacc_file.y
+      gcc lex.yy.c y.tab.c
+      ./a.out
+
+ass 7  lex lex.l
+       yacc -d yacc_file.y
+      gcc lex.yy.c y.tab.c
+      ./a.out
+
+ass 8  lex lex.l
+       yacc -d yacc_file.y
+      gcc lex.yy.c y.tab.c
+      ./a.out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ORRRRRRRRRRRR
+
+
+Fkt Lex sath :- 
+ Lex filename.l
+gcc lex.yy.c
+./a.out <to inputfilename
+
+
+
+Doni asel tar 
+Lex filename.l
+Yacc -d filenameyacc.y
+gcc lex.yy.c y.tab.c
+./a.out
